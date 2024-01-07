@@ -1,0 +1,12 @@
+FLIPKART:
+Scenario: Validation the products in cart list
+1.Open the broswer enter the url
+2.Home page should be displayed 
+3.Click on login button and user should navigate to login screen
+4.Enter username/mail and password then click on login button
+5.User should navigate to home page.
+6.Enter mobile device model in serach box and click on enter
+7.User should navigate to device list screen
+8.Select/click on required device and click on ADD TO CART
+9.Selected product should be displayed in cart list.
+10.Click on Logout button ,user must navigated to login page.
